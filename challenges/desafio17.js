@@ -1,4 +1,4 @@
-// 17 - Retorne a quantidade total de produtos em uma nova coleção chamada resumoProdutos
+// 17 - Retorne a quantidade total de produtos em uma nova coleção chamada resumoProdutos.
 db.resumoProdutos.insertOne(
   {
     franquia: "McDonalds",
