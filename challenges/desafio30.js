@@ -1,7 +1,7 @@
 // 30 - Remova o campo curtidas do item Big Mac.
 db.produtos
 .updateMany(
-  { nome: "Big Mac"},
+  { nome: "Big Mac" },
   { $unset: { curtidas: "" } },
 );
 
