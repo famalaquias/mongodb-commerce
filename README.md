@@ -6,6 +6,7 @@
 ## :page_with_curl: Sobre
 
 O projeto Commerce tem como objetivo trabalhar com banco de dados, que contém dados do cardápio do McDonald's. A partir disso, foi desenvolvido vários desafios para manipular e acessar esses dados.
+Foram feitos 32 desafios que se encontram na pasta `./challenges`.
 
 
 ## :man_technologist: Habilidades Desenvolvidas
